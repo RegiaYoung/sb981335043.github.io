@@ -9,11 +9,11 @@
     <lastBuildDate>Sat, 04 Sep 2021 02:40:20 +0800</lastBuildDate><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>FIRST</title>
-      <link>https://example.com/p/first/</link>
+      <link>https://example.com/post/first/</link>
       <pubDate>Sat, 04 Sep 2021 02:40:20 +0800</pubDate>
       
-      <guid>https://example.com/p/first/</guid>
-      <description></description>
+      <guid>https://example.com/post/first/</guid>
+      <description>这是杨同学的个人博客 此为测试文章 我真的不懂这怎么调试！！！</description>
     </item>
     
   </channel>
