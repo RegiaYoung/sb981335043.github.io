@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Arclight—Okabe&#39;s Blog</title>
-        <link>https://example.com/</link>
+        <link>https://arclight.top/</link>
         <description>Recent content on Arclight—Okabe&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Sat, 04 Sep 2021 02:40:20 +0800</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 04 Sep 2021 02:40:20 +0800</lastBuildDate><atom:link href="https://arclight.top/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>FIRST</title>
-        <link>https://example.com/post/first/</link>
+        <link>https://arclight.top/post/first/</link>
         <pubDate>Sat, 04 Sep 2021 02:40:20 +0800</pubDate>
         
-        <guid>https://example.com/post/first/</guid>
+        <guid>https://arclight.top/post/first/</guid>
         <description>&lt;h2 id=&#34;这是杨同学的个人博客&#34;&gt;&lt;em&gt;这是杨同学的个人博客&lt;/em&gt;&lt;/h2&gt;
 &lt;p&gt;此为测试文章
 我真的不懂这怎么调试！！！&lt;/p&gt;
