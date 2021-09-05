@@ -9,10 +9,10 @@
     <lastBuildDate>Sat, 04 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://arclight.top/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>关于|About</title>
-      <link>https://arclight.top/%E5%85%B3%E4%BA%8Eabout/</link>
+      <link>https://arclight.top/about/</link>
       <pubDate>Sat, 04 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://arclight.top/%E5%85%B3%E4%BA%8Eabout/</guid>
+      <guid>https://arclight.top/about/</guid>
       <description>您好！欢迎访问Arclight.top，现已作为Okabe‘s Notes加入豪华午餐 !
 这里是杨同学的个人博客， “准备”被用来发布一些知识分享内容，据说是有一些学习经验、工具教程这类的，正处于起步状态。
 本网站是使用Hugo+Github Pages进行搭建的静态博客，页面主题来自Jimmy Cai所制作的hugo-theme-stack(作者居然和我同龄……)，鉴于网路上的教程参差不齐囫囵吞枣，之后会分享一篇如何搭建类似静态博客的Guide.
